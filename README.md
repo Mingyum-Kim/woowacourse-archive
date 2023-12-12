@@ -27,3 +27,27 @@
 회고글 : https://mingyum119.tistory.com/269
 
 ## 최종 코딩테스트 준비 과정 
+
+### 일정
+날짜 및 시간 : 2023년 12월 16일 (토) 13시 ~ 18시
+장소 : 우아한테크코스 선릉 캠퍼스
+
+### 문제 풀이
+
+**🚇 3기 최종 코딩테스트 (지하철 노선도 경로 조회)**
+
+**📮 4기 프리코스 3주차 (자판기)**
+
+미션 PR : https://github.com/haebyun/java-vendingmachine-precourse/pull/1
+
+**👫 4기 최종 코딩테스트 (페어 매칭)**
+
+미션 PR : https://github.com/woowacourse/java-pairmatching-precourse/pull/164
+
+**🌉 5기 프리코스 4주차 (다리 건너기)**
+
+**🍱 5기 최종 코딩테스트 (점심 메뉴 추천)**
+
+미션 PR : https://github.com/haebyun/java-menu-precourse/pull/1
+
+**🎄 6기 프리코스 4주차 (크리스마스 프로모션)
