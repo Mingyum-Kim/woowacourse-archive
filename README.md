@@ -41,6 +41,8 @@
 
 미션 PR : https://github.com/woowacourse/java-subway-map-precourse/pull/122
 
+회고 : https://mingyum119.tistory.com/273
+
 **📮 4기 프리코스 3주차 (자판기)**
 
 미션 PR : https://github.com/haebyun/java-vendingmachine-precourse/pull/1
@@ -52,6 +54,8 @@
 **🌉 5기 프리코스 4주차 (다리 건너기)**
 
 미션 PR : https://github.com/bark20/java-bridge/pull/9
+
+회고 : https://mingyum119.tistory.com/272
 
 **🍱 5기 최종 코딩테스트 (점심 메뉴 추천)**
 
