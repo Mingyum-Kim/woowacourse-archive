@@ -61,3 +61,10 @@
 
 미션 PR : https://github.com/haebyun/java-menu-precourse/pull/1
 
+**⚾ 6기 프리코스 1주차 (야구 게임)**
+
+미션 PR : https://github.com/woowacourse-precourse/java-baseball-6/pull/2794 
+
+**🚗 6기 프리코스 2주차 (자동차 경주)**
+
+미션 PR : https://github.com/woowacourse-precourse/java-racingcar-6/pull/2397
