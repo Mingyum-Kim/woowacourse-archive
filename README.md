@@ -51,6 +51,8 @@
 
 미션 PR : https://github.com/woowacourse/java-pairmatching-precourse/pull/164
 
+미션 PR : https://github.com/haebyun/java-pairmatching-precourse/pull/2
+
 **🌉 5기 프리코스 4주차 (다리 건너기)**
 
 미션 PR : https://github.com/bark20/java-bridge/pull/9
