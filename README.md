@@ -74,3 +74,8 @@
 **🎄 6기 프리코스 4주차 (크리스마스 프로모션)**
 
 미션 PR : https://github.com/woowacourse-precourse/java-christmas-6/pull/17
+
+## 최종 코딩테스트
+
+미션 PR : https://github.com/Mingyum-Kim/java-oncall-6-Mingyum-Kim/pull/1
+회고글 : https://mingyum119.tistory.com/274
