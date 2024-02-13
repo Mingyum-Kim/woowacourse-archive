@@ -7,4 +7,8 @@ public class View {
         Scanner scanner = new Scanner(System.in);
         return scanner.nextLine();
     }
+
+    public void printResult(int result) {
+        System.out.println(result);
+    }
 }
