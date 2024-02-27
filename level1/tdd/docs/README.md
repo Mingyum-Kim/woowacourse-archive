@@ -11,3 +11,4 @@
     - [ ] hashcode 정의
     - [ ] null과의 equals 정의
     - [ ] Object와의 equals 정의
+- [ ] Franc 객체가 Dollar와 동일하게 작동할 수 있도록 하기
