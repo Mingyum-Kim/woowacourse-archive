@@ -7,3 +7,7 @@
 - [ ] 통화가 다른 두 금액을 더해서 환율에 맞게 변환한 금액을 구한다.
 - [x] 주가를 주식의 수로 곱한 금액을 구한다.
     - [x] Dollar 부작용 해결 - 값 객체 패턴으로 정의
+    - [x] 다른 Dollar와 equals 정의
+    - [ ] hashcode 정의
+    - [ ] null과의 equals 정의
+    - [ ] Object와의 equals 정의
