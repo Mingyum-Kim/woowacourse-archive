@@ -15,3 +15,4 @@
   - [ ] Dollar와 Franc의 중복 제거
   - [x] 공통 equals 구현
   - [ ] 공통 times 구현
+  - [x] Franc와 Dollar 비교하기
