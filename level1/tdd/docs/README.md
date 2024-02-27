@@ -12,3 +12,6 @@
     - [ ] null과의 equals 정의
     - [ ] Object와의 equals 정의
 - [ ] Franc 객체가 Dollar와 동일하게 작동할 수 있도록 하기
+  - [ ] Dollar와 Franc의 중복 제거
+  - [x] 공통 equals 구현
+  - [ ] 공통 times 구현

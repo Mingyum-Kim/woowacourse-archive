@@ -1,0 +1,11 @@
+package com.anna.tdd.money;
+
+public class Franc extends Money {
+    public Franc(final int amount) {
+        this.amount = amount;
+    }
+
+    public Franc times(int multiplier) {
+        return new Franc(amount * multiplier);
+    }
+}

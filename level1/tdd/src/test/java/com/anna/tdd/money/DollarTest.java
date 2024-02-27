@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-class MoneyTest {
+class DollarTest {
     @Test
     void testMultiplication() {
         Dollar five = new Dollar(5);
