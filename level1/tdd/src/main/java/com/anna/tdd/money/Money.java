@@ -1,7 +1,7 @@
 package com.anna.tdd.money;
 
 public class Money {
-    private final int amount;
+    protected final int amount;
     protected String currency;
 
     public Money(final int amount, final String currency) {
@@ -17,9 +17,13 @@ public class Money {
         return new Franc(amount, "CHF");
     }
 
+    public Money times(int multiplier) {
+        return new Money(amount * multiplier, currency);
+    }
+
     public boolean equals(Object object) {
         Money money = (Money) object;
-        return money.amount == amount && money.getClass().equals(getClass());
+        return money.amount == amount && currency().equals(money.currency());
     }
 
     public String currency() {
