@@ -1,6 +1,8 @@
 package com.anna.tdd.money;
 
-public class Money {
+import com.anna.tdd.bank.Expression;
+
+public class Money implements Expression {
     protected final int amount;
     protected String currency;
 
@@ -19,6 +21,10 @@ public class Money {
 
     public Money times(int multiplier) {
         return new Money(amount * multiplier, currency);
+    }
+
+    public Expression plus(final Money addend) {
+        return new Money(amount + addend.amount, currency);
     }
 
     public boolean equals(Object object) {
