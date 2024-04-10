@@ -17,6 +17,7 @@
 | 📞 온콜 (최종 코딩테스트) | 2023.12.16 | [PR](https://github.com/Mingyum-Kim/java-oncall-6-Mingyum-Kim/pull/1) | [회고](https://mingyum119.tistory.com/274) | 
 
 ### 1️⃣ Level1 
+##### ⭐ Keyword : Java, OOP, CleanCode, TDD, UnitTest, DB
 
 ```markdown
 학습 내용
