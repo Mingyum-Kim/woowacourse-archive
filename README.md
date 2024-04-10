@@ -93,3 +93,28 @@
         <td><a href="회고 URL">회고</a></td>
     </tr>
 </table>
+
+
+## 💗 Soft Skill 
+
+지속 가능한 성장을 위한 마인드셋 가꾸기.
+
+<table>
+    <tr>
+        <th>미션 이름</th>
+        <th>레벨</th>
+        <th>기간</th>
+        <th>미션 내용</th>
+    </tr>
+    <tr>
+        <td rowspan="5">✒ 글쓰기 미션</td>
+        <td>레벨 1</td>
+        <td>2024.03.20 ~ 04.03</td>
+        <td><a href="https://github.com/Mingyum-Kim/woowacourse-archive/tree/main/level1/woowa-writing">나의 다이아몬드</a></td>
+    </tr>
+    <tr>
+        <td>레벨 2</td>
+        <td>2024.02.16 ~ 02.19</td>
+        <td><a href=""></a></td>
+    </tr>
+</table>
