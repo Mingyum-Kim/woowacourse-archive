@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aa3317a-0901-4add-a31f-eed139955feb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean-code/initial/src/test/java/woowacourse/goodcode/ReadableCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/clean-code/initial/src/test/java/woowacourse/goodcode/ReadableCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-language/initial/src/test/java/woowacourse/FunctionalProgrammingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-language/initial/src/test/java/woowacourse/FunctionalProgrammingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dO5yqEvxViB0Wr3O3qHSHufqsr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/woowacourse/woowacourse-archive/level1/java-blackjack",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.FunctionalProgrammingTest$StreamTest.명령형으로_작성된_코드를_선언형으로_변경한다">
+    <configuration name="FunctionalProgrammingTest$LibraryTest.Function" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learning-test.java-language.initial.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="woowacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="woowacourse.FunctionalProgrammingTest" />
+      <option name="MAIN_CLASS_NAME" value="woowacourse.FunctionalProgrammingTest$LibraryTest" />
+      <option name="METHOD_NAME" value="Function" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalProgrammingTest$LibraryTest.기존_함수의_중복을_람다를_활용해_중복을_제거한다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learning-test.java-language.initial.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="woowacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="woowacourse.FunctionalProgrammingTest" />
+      <option name="MAIN_CLASS_NAME" value="woowacourse.FunctionalProgrammingTest$LibraryTest" />
+      <option name="METHOD_NAME" value="기존_함수의_중복을_람다를_활용해_중복을_제거한다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalProgrammingTest$StreamTest.명령형으로_작성된_코드를_선언형으로_변경한다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learning-test.java-language.initial.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="woowacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="woowacourse.FunctionalProgrammingTest" />
+      <option name="MAIN_CLASS_NAME" value="woowacourse.FunctionalProgrammingTest$StreamTest" />
+      <option name="METHOD_NAME" value="명령형으로_작성된_코드를_선언형으로_변경한다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalProgrammingTest$SyntaxTest.User의_나이를_기준으로_정렬한다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learning-test.java-language.initial.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="woowacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="woowacourse.FunctionalProgrammingTest" />
+      <option name="MAIN_CLASS_NAME" value="woowacourse.FunctionalProgrammingTest$SyntaxTest" />
+      <option name="METHOD_NAME" value="User의_나이를_기준으로_정렬한다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalProgrammingTest$SyntaxTest.함수형_인터페이스" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learning-test.java-language.initial.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="woowacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="woowacourse.FunctionalProgrammingTest" />
+      <option name="MAIN_CLASS_NAME" value="woowacourse.FunctionalProgrammingTest$SyntaxTest" />
+      <option name="METHOD_NAME" value="함수형_인터페이스" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunctionalProgrammingTest$StreamTest.명령형으로_작성된_코드를_선언형으로_변경한다" />
+        <item itemvalue="JUnit.FunctionalProgrammingTest$LibraryTest.기존_함수의_중복을_람다를_활용해_중복을_제거한다" />
+        <item itemvalue="JUnit.FunctionalProgrammingTest$SyntaxTest.User의_나이를_기준으로_정렬한다" />
+        <item itemvalue="JUnit.FunctionalProgrammingTest$LibraryTest.Function" />
+        <item itemvalue="JUnit.FunctionalProgrammingTest$SyntaxTest.함수형_인터페이스" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aa3317a-0901-4add-a31f-eed139955feb" name="Changes" comment="" />
+      <created>1709863950998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709863950998</updated>
+      <workItem from="1709863953066" duration="2548000" />
+      <workItem from="1709866557430" duration="61000" />
+      <workItem from="1709867046085" duration="129000" />
+      <workItem from="1709867324280" duration="2434000" />
+      <workItem from="1711258356892" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
