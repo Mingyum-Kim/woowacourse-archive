@@ -1,0 +1,86 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>자기소개</title>
+</head>
+<body>
+    <script src="function.js"></script>
+    <div>
+        <h1> 자기소개 </h1>
+        <ul class="paragraph">
+            <li> 이름 : Anna </li>
+            <li> 사는 곳 : 강동구 </li>
+            <li> 안녕하세요 🐥 저는 Anna입니다. 만나서 반갑습니다. 열심히 공부하는 백엔드 크루 안나에게 커피 한 잔 기부 어떤가요? </li>
+        </ul>
+    </div>
+    <div>
+        <h1>인생 영화 BEST5</h1>
+        <table class="paragraph">
+            <thead>
+                <tr>
+                    <th class="th-1"> 순위 </th>
+                    <th class="th-2"> 제목 </th>
+                    <th> 포스터 </th>
+                    <th> 줄거리 </th>
+                    <th class="th-5"> 바로가기 </th>
+                </tr>
+            </thead>
+            <tr>
+                <th> 1 </th>
+                <td> 빽 투더 퓨처 (1985) </td>
+                <td> <img src="../images/back-to-the-future.jpeg"> </td>
+                <td> 괴짜 발명가 브라운 박사가 타임머신을 만들었다. 평범한 학생 마티 맥플라이는 갑작스러운 사건에 휘말리게 되어 30년 전 과거로 돌아가는데 ... </td>
+                <td> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%B0%B1+%ED%88%AC%EB%8D%94+%ED%93%A8%EC%B2%98">클릭</a></td>
+            </tr>
+            <tr>
+                <th> 2</th>
+                <td> 노트북(2004) </td>
+                <td> <img src="../images/notebook.jpg"></td>
+                <td> 놀이공원에서 앨리를 우연히 만난 노아, 부모님의 반대로 사랑을 이루지는 못하지만 우연한 계기로 다시 만나게 되는데 ... </td>
+                <td> <a href="https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bkEw&pkid=68&os=1776797&qvt=0&query=%EB%85%B8%ED%8A%B8%EB%B6%81">클릭</a></td>
+            </tr>
+            <tr>
+                <th> 3</th>
+                <td> 포레스트 검프 (1994) </td>
+                <td> <img src="../images/forrest-gump.jpeg"></td>
+                <td> 불편한 다리의 낮은 지능을 가진 외톨이 소년 포레스트 검프, 그를 향한 쓰라린 사회의 편견 속에서도 순수한 마음을 가지고 살아나가는 그의 눈부신 여정이 시작된다.</td>
+                <td> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8+%EA%B2%80%ED%94%84">클릭</a></td>
+            </tr>
+            <tr>
+                <th> 4 </th>
+                <td> 터미널(2004) </td>
+                <td> <img src="../images/terminal.jpeg"></td>
+                <td> 큰 꿈을 안고 뉴욕에 온 '크로코지아'의 평범한 남자 나보스키, 고국에서 쿠데타가 일어나 갑작스레 국적이 사라져버렸다. 과연 그는 터미널을 빠져나갈 수 있을까?</td>
+                <td> <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ssc=tab.nx.all&query=%EC%98%81%ED%99%94+%ED%84%B0%EB%AF%B8%EB%84%90+&oquery=%EC%98%81%ED%99%94+%ED%84%B0%EB%AF%B8%EB%84%90+%ED%8F%AC%ED%86%A0&tqi=iO8Pkwqo1SosscFWSlVssssstUo-281472">클릭</a></td>
+            </tr>
+            <tr>
+                <th> 5 </th>
+                <td> 노팅힐 (1999) </td>
+                <td> <img src="../images/notting-hill.jpeg"></td>
+                <td> 서점을 운영하는 '윌리엄 태커'는 우연히 세계적인 스타 '애나 스콧'을 만난다. 꿈 같은 로맨스 이야기의 끝은 어떻게 될까?</td>
+                <td> <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ssc=tab.nx.all&query=%EB%85%B8%ED%8C%85%ED%9E%90&oquery=her+%EB%85%B8%EB%9E%98&tqi=iO8Qswqo1awssPKgjwNssssstaZ-435453">클릭</a></td>
+            </tr>
+
+        </table>
+    </div>
+    <div class="paragraph">
+        <h1>방명록</h1>
+        <p>이름 : <input type="text" id="name" size=50> </p>
+        <p>본인 취향 영화</p>
+        <p><input type="checkbox" name="movie"> 빽 투터 퓨처 <input type="checkbox" name="movie"> 노트북</p>
+        <button type = "button" onclick="enroll()"> 등록 </button >
+        <button type = "reset"> 취소 </button>
+    </div>
+
+    <script>
+        function enroll() {
+            const name = document.getElementById("name").value;
+            const query = 'input[name="movie"]:checked';
+            const selectedElements = document.querySelectorAll(query);
+            alert(name + "님, 저와 " + selectedElements.length + "개의 취향이 같으시네요!");
+        }
+    </script>
+</body>
+</html>

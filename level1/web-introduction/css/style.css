@@ -1,0 +1,72 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'BMDOHYEON';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMDOHYEON.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BMJUA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+div {
+    border: 1px solid cornflowerblue;
+    width: 50%;
+}
+
+h1 {
+    font-family: BMDOHYEON;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+table {
+    width: 900px;
+    height: 150px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+}
+
+.th-1 {
+    width : 10%;
+}
+
+.th-2 {
+    width : 20%;
+}
+
+.th-5 {
+    width : 10%;
+}
+
+button {
+    border: solid 2px black;
+    font-size: 20px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+input {
+    border: solid 2px cornflowerblue;
+}
+
+.paragraph{
+    font-size: 20px;
+    font-family: 'BMJUA';
+}
