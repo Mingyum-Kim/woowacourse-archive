@@ -76,7 +76,7 @@
         <td>Step2</td>
         <td>2024.03.09 ~ 03.18</td>
         <td><a href="https://github.com/woowacourse/java-blackjack/pull/744">PR</a></td>
-        <td><a href="회고 URL">회고</a></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="2">♟ 체스 미션</td>
@@ -84,13 +84,13 @@
         <td>Step1</td>
         <td>2024.03.19 ~ 03.21</td>
         <td><a href="https://github.com/woowacourse/java-chess/pull/665">PR</a></td>
-        <td><a href="회고 URL">회고</a></td>
+    <td></td>
     </tr>
     <tr>
         <td>Step2</td>
         <td>2024.03.22 ~ 04.01</td>
         <td><a href="https://github.com/woowacourse/java-chess/pull/788">PR</a></td>
-        <td><a href="회고 URL">회고</a></td>
+        <td></td>
     </tr>
 </table>
 
@@ -103,18 +103,19 @@
     <tr>
         <th>미션 이름</th>
         <th>레벨</th>
-        <th>기간</th>
-        <th>미션 내용</th>
+        <th>주제</th>
     </tr>
     <tr>
         <td rowspan="5">✒ 글쓰기 미션</td>
         <td>레벨 1</td>
-        <td>2024.03.20 ~ 04.03</td>
-        <td><a href="https://github.com/Mingyum-Kim/woowacourse-archive/tree/main/level1/woowa-writing">나의 다이아몬드</a></td>
+        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/level1/README.md">타인과의 비교를 벗어나 '나'에 집중하기</a></td>
     </tr>
     <tr>
         <td>레벨 2</td>
-        <td>2024.02.16 ~ 02.19</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/step2/level2.md">자아실현의 욕구 단계로의 도약</a></td>
+    </tr>
+    <tr>
+        <td>레벨 3</td>
+        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/level3/level3.md">협업을 잘하기 위한 대화법</a></td>
     </tr>
 </table>
