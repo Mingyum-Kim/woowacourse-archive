@@ -5,6 +5,31 @@
 > 프리코스 : 2023.10.19 ~ 2023.11.15 <br>
 > 본과정 : 2024.02.13 ~ 
 
+## 💗 Soft Skill 
+
+지속 가능한 성장을 위한 마인드셋 가꾸기.
+
+<table>
+    <tr>
+        <th>미션 이름</th>
+        <th>레벨</th>
+        <th>주제</th>
+    </tr>
+    <tr>
+        <td rowspan="5">✒ 글쓰기 미션</td>
+        <td>레벨 1</td>
+        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/level1/README.md">타인과의 비교를 벗어나 '나'에 집중하기</a></td>
+    </tr>
+    <tr>
+        <td>레벨 2</td>
+        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/step2/level2.md">자아실현의 욕구 단계로의 도약</a></td>
+    </tr>
+    <tr>
+        <td>레벨 3</td>
+        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/level3/level3.md">협업을 잘하기 위한 대화법</a></td>
+    </tr>
+</table>
+
 ## ✏ 활동 기록
 
 ### ⭐ Team Project in Level3 ~ Level4 ⭐
@@ -276,27 +301,3 @@ Tomcat, MVC, JDBC를 직접 만들어본다. DB 복제와 캐시를 학습한다
 | 🎄 크리스마스 프로모션 | 2023.11.09 ~ 11.16 | [PR](https://github.com/Mingyum-Kim/java-christmas-6-Mingyum-Kim/pull/1) | [회고](https://mingyum119.tistory.com/269) |
 | 📞 온콜 (최종 코딩테스트) | 2023.12.16 | [PR](https://github.com/Mingyum-Kim/java-oncall-6-Mingyum-Kim/pull/1) | [회고](https://mingyum119.tistory.com/274) | 
 
-## 💗 Soft Skill 
-
-지속 가능한 성장을 위한 마인드셋 가꾸기.
-
-<table>
-    <tr>
-        <th>미션 이름</th>
-        <th>레벨</th>
-        <th>주제</th>
-    </tr>
-    <tr>
-        <td rowspan="5">✒ 글쓰기 미션</td>
-        <td>레벨 1</td>
-        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/level1/README.md">타인과의 비교를 벗어나 '나'에 집중하기</a></td>
-    </tr>
-    <tr>
-        <td>레벨 2</td>
-        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/step2/level2.md">자아실현의 욕구 단계로의 도약</a></td>
-    </tr>
-    <tr>
-        <td>레벨 3</td>
-        <td><a href="https://github.com/Mingyum-Kim/woowa-writing/blob/level3/level3.md">협업을 잘하기 위한 대화법</a></td>
-    </tr>
-</table>
